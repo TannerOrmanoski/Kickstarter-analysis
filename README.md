@@ -1,7 +1,7 @@
 # Kickstarter-analysis
 ## Analysis preformed on Kickstarter data to observe trends.
 ### Purpose
-The purpose of this project was to comb through and analyze Kickstarter data in order to find relevant trends and suggestions. The resulting proposed suggestions will help guide future Kickstarter endeavors. This analysis is specifically aimed at aiding Louise in discovering the best way to ensure her play, "Fever," reaches its fundraising goal.
+The purpose of this project is to comb through and analyze Kickstarter data in order to find relevant trends and suggestions. The resulting proposed suggestions will help guide future Kickstarter endeavors. This analysis is specifically aimed at aiding Louise in discovering the best way to ensure her play, "Fever," reaches its fundraising goal.
 ## Analysis and Challenges
 ### Analysis of Outcomes Launch Date
 Part of my analysis was focused on the timing of the campaigns, more specifically, if there was a correlation between the start date of a campaign and the campaign's outcome. Using the line graph (pictured below), I came to the conclusion that campaigns that start in May and June are most successful.
