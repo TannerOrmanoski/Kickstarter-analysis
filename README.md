@@ -1,6 +1,6 @@
 # Kickstarter-analysis
-##Analysis preformed on Kickstarter data to observe trends.
-###Purpose
+## Analysis preformed on Kickstarter data to observe trends.
+### Purpose
 The purpose of this project was to comb through and analyze Kickstarter data in order to find relevant trends and suggestions. The resulting proposed suggestions will help guide future Kickstarter endeavors. This analysis is specifically aimed at aiding Louise in discovering the best way to ensure her play, "Fever," reaches its fundraising goal.
 ## Analysis and Challenges
 ### Analysis of Outcomes Launch Date
